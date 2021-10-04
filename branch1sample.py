@@ -1,2 +1,2 @@
 ## Say Hi
-print("Hi)
+print("Hi")
